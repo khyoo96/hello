@@ -1,1 +1,1 @@
-# hello
+# hello, khyoo at Samsung.com
